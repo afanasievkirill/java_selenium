@@ -1,4 +1,4 @@
-package ru.home.test.selenium;
+package ru.home.test.selenium.tests;
 
 import org.junit.After;
 import org.junit.Before;
